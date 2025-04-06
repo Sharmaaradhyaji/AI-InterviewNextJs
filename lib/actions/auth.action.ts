@@ -1,6 +1,7 @@
 "use server";
 
 import { auth, db } from "@/firebase/admin";
+import { redirect } from "next/dist/server/api-utils";
 import { cookies } from "next/headers";
 
 // Session duration (1 week)
