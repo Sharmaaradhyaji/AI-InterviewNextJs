@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+The deployed version can be viewed in the below link:
+https://ai-interview-next-js-git-master-sharmaaradhyajis-projects.vercel.app/sign-in
+
 
 ## Getting Started
 
